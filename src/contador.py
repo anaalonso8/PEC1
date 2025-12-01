@@ -1,6 +1,3 @@
-mkdir -p src
-nano src/contador.py   
-
 import time
 import sys
 
